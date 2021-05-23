@@ -29,7 +29,7 @@ import java.util.List;
     public class SILab2 {
 
         public List<Integer> function(List<Time> timesList) {
-            List<Integer> result = new ArrayList<>(); // A
+            List<Integer> result = new ArrayList<>(); // A /
 
             for (int i = 0; i < timesList.size(); i++) { //B
                 int hr = timesList.get(i).getHours(); // C
