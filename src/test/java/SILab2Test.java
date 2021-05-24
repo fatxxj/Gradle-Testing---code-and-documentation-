@@ -15,7 +15,7 @@ class SILab2Test {
 
 
     @Test
-            void multipleConditionTest() {
+            void multipleConditionAndBranchTest() {
 
 
         Time vreme = new Time(10,10,0);
@@ -76,6 +76,8 @@ class SILab2Test {
         //END TEST ABC-S-T
 
     }
+
+
 
 
 }
