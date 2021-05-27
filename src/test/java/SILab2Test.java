@@ -18,13 +18,13 @@ class SILab2Test {
             void multipleConditionAndBranchTest() {
 
 
-        Time vreme = new Time(10,10,0);
-        Time vreme1 = new Time(-10,10,0);
-        Time vreme2 = new Time(100,10,0);
-        Time vreme3 = new Time(10,-10,0);
-        Time vreme4 = new Time(10,20,-100);
-        Time vreme5 = new Time(24,0,0);
-        Time vreme6 = new Time(24,30,20);
+        Time vreme = new Time(10,10,0);// TESTING ABC-I-L-M-N
+        Time vreme1 = new Time(-10,10,0);// TEST ABC-D-R
+        Time vreme2 = new Time(100,10,0);//TEST ABC-D-G-H
+        Time vreme3 = new Time(10,-10,0);//TEST ABC-I-J-K
+        Time vreme4 = new Time(10,20,-100); //TEST ABC-I-L-O
+        Time vreme5 = new Time(24,0,0);//TEST ABC-Q-R
+        Time vreme6 = new Time(24,30,20);//TEST ABC-S-T
 
         // TESTING ABC-I-L-M-N
         List<Integer> result = new ArrayList<>();
