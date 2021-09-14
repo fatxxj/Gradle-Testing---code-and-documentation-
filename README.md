@@ -2,6 +2,9 @@
 
 <h3>-2. Slika od cFG</h3><br>
 
+
+3.  ![Screenshot 2021-09-14 133823](https://user-images.githubusercontent.com/73427967/133250945-8400af93-87aa-42bf-86c9-bd026569340a.png)
+
 2. ![cfg-195005](https://user-images.githubusercontent.com/73427967/119265071-abd99380-bbe5-11eb-9c4f-d173e3dcafe4.png)
 
 </br>
